@@ -8159,7 +8159,7 @@ h1, h2, h3, h4, h5,
   color: #000; }
 
 .bg-primary {
-  background: #1089ff !important; }
+  background: #3f6791 !important; }
 
 .ftco-section {
   padding: 7em 0; }
@@ -8187,10 +8187,10 @@ h1, h2, h3, h4, h5,
   font-weight: 400; }
 
 .calendar_content {
-  background: #fff; }
+  background: #343a40; }
 
 .calendar_weekdays {
-  background: #1089ff; }
+  background: #3f6791; }
 
 .calendar_header {
   padding: 10px 0; }
@@ -8202,14 +8202,14 @@ h1, h2, h3, h4, h5,
 .calendar_weekdays div {
   display: inline-block;
   vertical-align: top;
-  color: #fff !important; }
+  color: #ced4da !important; }
 
 .calendar_weekdays div, .calendar_content div {
   width: 14.28571%;
   overflow: hidden;
   text-align: center;
   background-color: transparent;
-  color: #000;
+  color: #ced4da;
   font-size: 16px;
   padding: 15px 0; }
 
@@ -8228,7 +8228,7 @@ h1, h2, h3, h4, h5,
   border: 1px solid transparent; }
 
 .calendar_content div.past-date {
-  color: #d5d5d5; }
+  color: #5b5b5b; }
 
 .calendar_content div.today {
   font-weight: bold;
@@ -8248,14 +8248,14 @@ h1, h2, h3, h4, h5,
     height: 40px;
     border-radius: 50%;
     margin: 0 auto;
-    background: #1089ff;
+    background: #3f6791;
     z-index: -1;
     -webkit-box-shadow: 0px 5px 11px -9px rgba(0, 0, 0, 0.48);
     -moz-box-shadow: 0px 5px 11px -9px rgba(0, 0, 0, 0.48);
     box-shadow: 0px 5px 11px -9px rgba(0, 0, 0, 0.48); }
 
 .calendar_content div.selected {
-  background-color: #f0f0f0; }
+  background-color: rgba(255,255,255,.1); }
 
 .calendar_header {
   width: 100%;
@@ -8265,7 +8265,7 @@ h1, h2, h3, h4, h5,
   padding: 0 10px;
   font-weight: 500;
   font-size: 20px;
-  color: #1089ff;
+  color: #3f6791;
   float: left;
   width: 70%;
   margin: 0 0 10px; }
@@ -8283,4 +8283,4 @@ button.switch-month {
   transition: color .2s; }
 
 button.switch-month:hover {
-  color: #1089ff; }
+  color: #3f6791; }
